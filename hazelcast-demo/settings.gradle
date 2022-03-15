@@ -1,3 +1,0 @@
-rootProject.name = 'demo-hazelcast'
-
-include 'demo-hazelcast-cache', 'demo-hazelcast-client'
